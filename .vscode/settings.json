@@ -1,0 +1,22 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  },
+  "editor.suggest.showStatusBar": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "deno.inlayHints.parameterNames.enabled": "none",
+  "deno.inlayHints.parameterTypes.enabled": false,
+  "deno.inlayHints.variableTypes.enabled": false,
+  "deno.inlayHints.functionLikeReturnTypes.enabled": false
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Fashion | Deco",
+    "short_name": "Fashion",
+    "theme_color": "#8c3d3d",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+  }
